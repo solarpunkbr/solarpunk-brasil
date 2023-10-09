@@ -9,6 +9,5 @@ Projetos e Referências para site em Hugo Framework
 - [ ] Criar mecanismo para discord com avisos sobre atualizações
 - [ ] Escolher theme com base em Projetos Hugo Framework
 - [ ] Definir escopo e layout do site
-- [ ] Levantar 
 
 ---
